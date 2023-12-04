@@ -5,5 +5,9 @@ Eveyone can contribute to the README.
 Alternative from main
 
 > [This draft reflects our discussions and agreements up to this point. It is subject to modification at any time should we decide to ]
+>
+> > [!NOTE]
+> This draft reflects our discussions and agreements up to this point. It is subject to modification at any time should we decide to.
+
 
 
