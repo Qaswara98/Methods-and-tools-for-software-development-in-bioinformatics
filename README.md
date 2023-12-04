@@ -5,9 +5,5 @@ Eveyone can contribute to the README.
 Alternative from main
 
 > [!NOTE]
-> This is a note.
-
-> [!WARNING]
-> This is a warning.
 
 
